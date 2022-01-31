@@ -233,3 +233,34 @@ a.btn.btn-lg {
 .education .credential-divider {
     border-color: rgba(0,0,0,0.3);
 }
+
+
+.footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #eeeef0;
+    color: black;
+    text-align: center;
+    font-size: 1.75rem;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+    margin-top: 1.5rem !important;
+}
+
+.btn-social {
+    color: black;
+}
+
+footer h2{ 
+    font-size: 4rem;
+}
+
+a {
+    color: black;
+}
+
+.copyright {
+    font-size: 1.50rem;
+}
